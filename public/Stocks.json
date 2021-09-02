@@ -1,0 +1,14 @@
+{
+    "TheWorld" : {
+        "Price" : "40-60",
+        "Stock" : 12
+    },
+    "Shadow TheWorld Requiem" : {
+        "Price" : "50-60",
+        "Stock" : 24
+    },
+    "Star Platinum Requiem" : {
+        "Price" : "50-60",
+        "Stock" : 5
+    }
+}
